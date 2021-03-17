@@ -929,8 +929,8 @@ input[type='checkbox'] {
 /************************/
 
 .tabs {
-	padding-top: 3rem;
-	padding-bottom: 3.125rem;
+	padding-top: 10rem;
+	padding-bottom: 10.125rem;
 	background-color: #f3f7fd;
 }
 
@@ -2197,6 +2197,7 @@ a:hover.back-to-top {
 }
 
 .rowcard {
+	margin-top: 50px;
 	display: flex;
 	justify-content: space-between;
 }
