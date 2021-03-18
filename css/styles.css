@@ -682,8 +682,8 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .navbar-brand.logo-image img {
-	width: 4.4375rem;
-	height: 1.75rem;
+	width: 6.5rem;
+	height: 6.5rem;
 }
 
 .navbar-custom .navbar-brand.logo-text {
@@ -888,7 +888,7 @@ input[type='checkbox'] {
 /***************************/
 
 .cards-1 {
-	padding-top: 3.25rem;
+	padding-top: 8.5rem;
 	padding-bottom: 3rem;
 	text-align: center;
 }
@@ -907,6 +907,7 @@ input[type='checkbox'] {
 }
 
 .cards-1 .card-image {
+	height: 200px;
 	max-width: 16rem;
 	margin-right: auto;
 	margin-bottom: 2rem;
@@ -928,8 +929,8 @@ input[type='checkbox'] {
 /************************/
 
 .tabs {
-	padding-top: 3rem;
-	padding-bottom: 3.125rem;
+	padding-top: 10rem;
+	padding-bottom: 10.125rem;
 	background-color: #f3f7fd;
 }
 
@@ -2196,6 +2197,7 @@ a:hover.back-to-top {
 }
 
 .rowcard {
+	margin-top: 50px;
 	display: flex;
 	justify-content: space-between;
 }
