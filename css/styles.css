@@ -2184,6 +2184,11 @@ a:hover.back-to-top {
 	transform: translateZ(0);
 }
 
+.circle img {
+	z-index: 10000;
+	transform: translateZ(0);
+}
+
 .overlay {
 	width: 118px;
 	position: absolute;
